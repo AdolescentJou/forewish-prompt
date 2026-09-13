@@ -1,0 +1,14 @@
+[
+  {"file": "prompts/编程开发/linux-terminal.md", "summary": "让 AI 模拟 Linux 终端，输入命令即返回终端输出，适合练习命令行、试脚本", "tags": ["Linux", "终端模拟", "命令行", "shell", "命令练习"]},
+  {"file": "prompts/编程开发/regex-generator.md", "summary": "让 AI 按需求生成正则表达式，直接复制即可用于编辑器或代码", "tags": ["正则", "regex", "文本匹配", "数据校验"]},
+  {"file": "prompts/编程开发/mysql-query.md", "summary": "教学示例：给出表结构与查询需求，让 AI 生成对应 MySQL 查询语句", "tags": ["MySQL", "SQL", "数据库", "查询生成", "自然语言转SQL"]},
+  {"file": "prompts/文案营销/advertiser.md", "summary": "让 AI 扮演广告策划，为产品或服务制定目标人群、核心卖点文案与媒介投放方案", "tags": ["广告", "营销策划", "campaign", "文案", "推广"]},
+  {"file": "prompts/文案营销/social-media-influencer.md", "summary": "让 AI 扮演社交媒体网红，为各平台创作推广内容并与粉丝互动提升品牌曝光", "tags": ["社媒营销", "网红", "Instagram", "内容创作", "品牌推广"]},
+  {"file": "prompts/图像生成/professional-badge-photo,-ready-to-use.md", "summary": "把上传的人像照片处理成正式工牌/证件照风格，保持五官不变不美颜", "tags": ["证件照", "工牌照", "职业头像", "照片处理", "ID photo"]},
+  {"file": "prompts/效率工具/summarize.md", "summary": "让 AI 把任意长内容压缩成一句话金句、要点清单与启示的 Markdown 摘要", "tags": ["总结", "摘要", "提炼要点", "summarize", "笔记整理"]},
+  {"file": "prompts/数据分析/plato-dialogue.md", "summary": "教学示例：让 AI 以教师视角对比两个大模型对同一问题的输出，辅助评估回答质量", "tags": ["模型对比", "输出评估", "教师视角", "prompt教学", "LLM评测"]},
+  {"file": "prompts/语言学习/spoken-english-teacher-and-improver.md", "summary": "让 AI 扮演口语外教陪你练英语，逐句纠正语法与表达并引导对话", "tags": ["英语口语", "对话练习", "纠错", "外教", "spoken English"]},
+  {"file": "prompts/数据分析/financial-analyst.md", "summary": "让 AI 担任金融分析师，结合技术分析与宏观经济环境预测股市走势", "tags": ["金融分析", "股票", "技术分析", "宏观经济", "投资预测"]},
+  {"file": "prompts/视频生成/film-critic.md", "summary": "让 AI 扮演影评人，从剧情、表演、摄影、导演等角度给出有褒有贬的影评", "tags": ["影评", "电影评论", "film critic", "观后感"]},
+  {"file": "prompts/翻译/translate.md", "summary": "让 AI 扮演顶级翻译，把句子或文档精准翻译成指定语言（如 en-us、ja-jp）", "tags": ["翻译", "多语言", "本地化", "translation", "文档翻译"]}
+]

@@ -1,0 +1,20 @@
+# Build an Interview Practice App
+
+## 说明
+
+用途概述：You will build your own Interview Preparation app.
+中文概述：用 Streamlit 或 Next.js 构建调用 OpenAI、含自定系统提示的面试准备单页应用。
+关键词：面试准备、Streamlit、Next.js、OpenAI、单页应用
+
+## 元信息（仓库提供）
+
+- 来源仓库：[f/prompts.chat](https://github.com/f/prompts.chat)
+- 贡献者：fejji.sofiene@gmail.com
+- 类型：纯文本（原始类型 TEXT）
+- 面向开发者：否
+
+## Prompt 内容
+
+```text
+You will build your own Interview Preparation app. I would imagine that you have participated in several interviews at some point. You have been asked questions. You were given exercises or some personality tests to complete. Fortunately, AI assistance comes to help. With it, you can do pretty much everything, including preparing for your next dream position. Your task will be to implement a single-page website using VS Code (or Cursor) editor, and either a Python library called Streamlit or a JavaScript framework called Next.js. You will need to call OpenAI, write a system prompt as the instructions for an LLM, and write your own prompt with the interview prep instructions. You will have a lot of freedom in the things you want to practise for your interview. We don't want you to put it in a box. Interview Questions? Specific programming language questions? Asking questions at the end of the interview? Analysing the job description to come up with the interview preparation strategy? Experiment! Remember, you have all of your tools at your disposal if, for some reason, you get stuck or need inspiration: ChatGPT, StackOverflow, or your friend!
+```

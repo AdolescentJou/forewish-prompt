@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# 中间产物（可再生成，不入库）
+tools/chunks/
+tools/overviews/
+tools/reports/
+tools/probe.txt
+
+# 向量索引数据（体积大、依赖 API 重建）
+tools/index_data/
+
+# OpenAI API key（本地文件，严禁入库）
+tools/.openai_key
+tools/.openai_base
